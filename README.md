@@ -74,15 +74,15 @@ git clone https://github.com/NOBITA2023/nobita12.py.git
 
 ```
 
-ls && cd NOBITA && ls
+ls && cd nobita12 && ls
 
-python2 nobita.py 
+python2 nobita12.py 
 
 ```
 
-*   USERNAME: NOBITA
+*   USERNAME: Nobita
 
-*   Passwords : NOBITA
+*   Passwords : Nobit
 
 ## ***Follow Me***
 
