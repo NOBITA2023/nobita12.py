@@ -8,10 +8,10 @@ pkg install python2
 
 pkg install git 
 
-rm -rf nobita12
+rm -rf nobita
 
-git clone https://github.com/NOBITA2023/nobita12.Py.git
+git clone https://github.com/NOBITA2023/NOBITA.Py.git
 
-cd nobita12
+cd nobita
 
-python2 nobit12.py
+python2 nobit.py
