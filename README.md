@@ -1,0 +1,1 @@
+# nobita12.py
